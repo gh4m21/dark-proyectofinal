@@ -1,0 +1,2125 @@
+fileFormatVersion: 2
+guid: 9194aefc76311924e8d316268c0d6c22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 973
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e9b95c24a11941bd01c5039ea06e6
+      internalID: 375770632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 973
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0be2164ed090b4d85d0d3d1ead60b4
+      internalID: -1071274644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 975
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb276e93a5667499b215bc523494be
+      internalID: 432859779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 976
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6911a6191d84293459c4c5e72528d65c
+      internalID: 848054092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 977
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9cc54e3063d1c42936c70019106e14
+      internalID: -200834662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 977
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f984d7cba40aaf449ad0e56485eaac1
+      internalID: -250369617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 976
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8061dedd9d6f7d4f9160af234b7fe68
+      internalID: 1731914290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 987
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a18c315820edf46bbdabe1c0297e6a
+      internalID: -138019401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88452d8faabd9a942983b73603a680dc
+      internalID: -114906344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 961
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d338a2e5ac9af24781416e5cad165d9
+      internalID: 999451252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 961
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0314a2c2a855e45bca1df45c710157
+      internalID: -1847797375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 961
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea4bc224d2fbe419293e7e3a74e39c
+      internalID: -1609291635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 961
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062373dd0e4944a4fbf6ca34979b92cb
+      internalID: -1562867638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 958
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935acc64318272747a0ba1d824012a9e
+      internalID: -65060537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 844
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fef18a26f3b0e469186a9343708aa0
+      internalID: -969685682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 843
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e99c7410e89b4185db3db837b0267
+      internalID: -1748801755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 845
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f13cf67e64fcd42b9a10ef8ec62a28
+      internalID: -1111203843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 846
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7ea7ab3b711842991b7d9e9ca87c8
+      internalID: 641100216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 846
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7c00e4817efb448e6ee74b59d3c1a
+      internalID: 952651953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 846
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9bd8130ee1054c8ae6c84b195bacf
+      internalID: -655618037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 844
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ef03ffdcf70346b98e39393b4563f
+      internalID: -569209654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 898
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f213f302cb7ecb419b3d76dd42a1451
+      internalID: 1394568424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 713
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67698856234bde4dbb38583c464a3e0
+      internalID: -1134989430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 712
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699eb418fb24f74cb520e2630bd7df0
+      internalID: 1611018152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 710
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be14d7878f1c940a5527727be92ec5
+      internalID: -1235118779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 712
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167c4519c47a134bb102e112d4c80ac
+      internalID: 1747390507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 712
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db688f652c381a2408167f97c370c2c1
+      internalID: 279129391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 710
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e6c59cd1c68d4483de6e0f9375078
+      internalID: -1243235960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 715
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d902912c7fc0ef49bcc2bbf45db9348
+      internalID: -2087674539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 685
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526a28668965f24abdd09348f063201
+      internalID: -1465826004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 685
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5dbcabbd935244b8e563bb590af75
+      internalID: -766437306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 685
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3578d3eaa2d4a4d9dc75ffc63f2aa6
+      internalID: 799443163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 685
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fafbff278df39409377ad00cd2b495
+      internalID: -606615687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 682
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702aed6c75a109e49836e570c61c537a
+      internalID: 443642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 583
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfae266733a4241976fb396e3a45ee
+      internalID: 124651015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 582
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e772f1af150de70489631ba01be96efd
+      internalID: 1080630918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 585
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136f1092700784489a14991c868191a
+      internalID: 2016965777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 586
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c0f27876175854bb201b8693eb8486
+      internalID: -650554153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 585
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545292aa4562944c90251908db1b6d8
+      internalID: 1856498286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 583
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddedc32062e6343975b0525489c31f
+      internalID: 1016161736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_40
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 625
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31472510d3c714a4a958ca1bb04edb3d
+      internalID: -187098509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 444
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b6d85872698b143b265080716b64ef
+      internalID: -2141085172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac88e4229d34034c9f14fa19c9b1186
+      internalID: -1017736824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 455
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa968bbdbe2ee7448a2754fb588facf
+      internalID: 1613221744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 455
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8444dcd658966749955698f800ab06b
+      internalID: 1658805169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_45
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 475
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52813ffde18ef264d8b87174465d37f6
+      internalID: 1663535106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 471
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fdaa4511abe204fb206bc3f4a004dc
+      internalID: -1288573643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 471
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbd99bdd899c0042b1123bb4738e66f
+      internalID: 1767181845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 471
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d473ce1df14f6d418a752e3a8808077
+      internalID: 1289273576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_49
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 471
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26eccf5060f768458e795cf39102370
+      internalID: 1433738246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 430
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571e2b6ea27dd145809c38f4fd050f3
+      internalID: -1341556501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_51
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 301
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce426b899eaf3ac40ad6660237ad6463
+      internalID: -596127858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 301
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61797d232edbdd6408465d6b7696c4f3
+      internalID: 1868723899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 302
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baba007ffc769e47813fa8281a04123
+      internalID: -396282143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 303
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d13bcdf1b1bb4594eda8139145384
+      internalID: 233297328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 275
+        width: 265
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3443f9841a3bbfc4a8ea583ebf60fa48
+      internalID: 1979346639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 138
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d167fd83f3f247b0c97e02090e246
+      internalID: 1915380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82a5283f4e86f46bede72b7e37bce8
+      internalID: 1137518923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_58
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 157
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595606962bb6564aad8a3aa80d8a36a
+      internalID: 897742518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 139
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e31c2461fceff47a1e1cf64339abdc
+      internalID: -1035346675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_60
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 145
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408713a8ce0ff042b859899ad25e33d
+      internalID: -279637093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_61
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 157
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e565fa0f4e73f14f876179c711dadfa
+      internalID: -196922643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_62
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 190
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5468f06fdf034cb37e25b796831b9
+      internalID: 2136803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_63
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 190
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08751c3522c5f41a3a1695e3111e8e
+      internalID: -597942115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_64
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 190
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319b9c2279e24743af26d3f550195da
+      internalID: -1658782659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_65
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 190
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f21734fb4ad84c811dedfbddfac27
+      internalID: -1132430829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_66
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 174
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5bc5cc275778740ba7d2e4f3df10a2
+      internalID: 1563538509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_67
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 171
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa853754487f4d74ab317a84f9585386
+      internalID: -1151791982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_68
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae2b92786a3f54492723c781a2dd79
+      internalID: 1334329177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 171
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6479f61a1367c43b655eaf7c47dd10
+      internalID: 2066811127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 61
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce8d7fd3aa1634ca1e49857db5bbc1
+      internalID: -2120178311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 59
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5989d270c5bf74bb72838896f8312e
+      internalID: 813401961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0386bf11d1e2e49abfcc88ae8bfdd6
+      internalID: 927099599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c405b940ca71b96488aa35fa47232c50
+      internalID: 1847025068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 67
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f8de3f7c380d448b59d08a25e1696
+      internalID: -314071748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 62
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae89f90bf06391428072de88dca2271
+      internalID: 1751121821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 67
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96caaee8a44854388ac480e92024ef
+      internalID: -312260418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_77
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 56
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e8397f086b4d4f91207d4a29983f8
+      internalID: -170591369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 53
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2e3a40ea605d41b6fb9512f7acf9d
+      internalID: -2059701878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f59e783a80124fbc15f39df24b6aa
+      internalID: -1790942097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_80
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 53
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec15e8e9c485e64abc0f038fbe2b64d
+      internalID: 2142623631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_81
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 56
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2e35c208f1d64cb697e89753012f7
+      internalID: 671403449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_82
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855c64539978534387cdd52fa86374b
+      internalID: 1824284835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_83
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe58e17947c7d458398188d574a507
+      internalID: -1664670016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_84
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a70bf3a040d247b582a8c72328129
+      internalID: -2047756288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_85
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 24
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a553f9355ecbb5e4a8c55d25a7e44269
+      internalID: 815586295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 13
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15faf15114f24498fc3242599d971e
+      internalID: 648161444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb62e42cbac14f40b7c33ae29d16789
+      internalID: -1547858427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b22f7d09576b46b77e39d35b199ec
+      internalID: 609470069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37efb2326e68127468d3f370daf97c0c
+      internalID: -1749091950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Skeleton_90
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 12
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7fd693b2cc3d541b4be1dd53b37149
+      internalID: 1267707567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca83cc152953ce441aaad28059a1a56c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Orc Skeleton_48: 1289273576
+      Orc Skeleton_10: -1847797375
+      Orc Skeleton_12: -1562867638
+      Orc Skeleton_68: 1334329177
+      Orc Skeleton_61: -196922643
+      Orc Skeleton_80: 2142623631
+      Orc Skeleton_5: -250369617
+      Orc Skeleton_25: 1747390507
+      Orc Skeleton_36: 2016965777
+      Orc Skeleton_78: -2059701878
+      Orc Skeleton_22: -1134989430
+      Orc Skeleton_34: 124651015
+      Orc Skeleton_67: -1151791982
+      Orc Skeleton_60: -279637093
+      Orc Skeleton_81: 671403449
+      Orc Skeleton_16: -1111203843
+      Orc Skeleton_15: -1748801755
+      Orc Skeleton_88: 609470069
+      Orc Skeleton_28: -2087674539
+      Orc Skeleton_50: -1341556501
+      Orc Skeleton_70: -2120178311
+      Orc Skeleton_55: 1979346639
+      Orc Skeleton_2: 432859779
+      Orc Skeleton_17: 641100216
+      Orc Skeleton_82: 1824284835
+      Orc Skeleton_69: 2066811127
+      Orc Skeleton_33: 443642493
+      Orc Skeleton_89: -1749091950
+      Orc Skeleton_44: 1658805169
+      Orc Skeleton_4: -200834662
+      Orc Skeleton_84: -2047756288
+      Orc Skeleton_76: -312260418
+      Orc Skeleton_73: 1847025068
+      Orc Skeleton_86: 648161444
+      Orc Skeleton_27: -1243235960
+      Orc Skeleton_9: 999451252
+      Orc Skeleton_46: -1288573643
+      Orc Skeleton_41: -2141085172
+      Orc Skeleton_79: -1790942097
+      Orc Skeleton_62: 2136803433
+      Orc Skeleton_32: -606615687
+      Orc Skeleton_13: -65060537
+      Orc Skeleton_63: -597942115
+      Orc Skeleton_65: -1132430829
+      Orc Skeleton_64: -1658782659
+      Orc Skeleton_8: -114906344
+      Orc Skeleton_58: 897742518
+      Orc Skeleton_30: -766437306
+      Orc Skeleton_7: -138019401
+      Orc Skeleton_26: 279129391
+      Orc Skeleton_38: 1856498286
+      Orc Skeleton_43: 1613221744
+      Orc Skeleton_47: 1767181845
+      Orc Skeleton_0: 375770632
+      Orc Skeleton_11: -1609291635
+      Orc Skeleton_31: 799443163
+      Orc Skeleton_87: -1547858427
+      Orc Skeleton_6: 1731914290
+      Orc Skeleton_66: 1563538509
+      Orc Skeleton_19: -655618037
+      Orc Skeleton_53: -396282143
+      Orc Skeleton_14: -969685682
+      Orc Skeleton_39: 1016161736
+      Orc Skeleton_23: 1611018152
+      Orc Skeleton_56: 1915380606
+      Orc Skeleton_49: 1433738246
+      Orc Skeleton_77: -170591369
+      Orc Skeleton_37: -650554153
+      Orc Skeleton_45: 1663535106
+      Orc Skeleton_29: -1465826004
+      Orc Skeleton_24: -1235118779
+      Orc Skeleton_57: 1137518923
+      Orc Skeleton_42: -1017736824
+      Orc Skeleton_71: 813401961
+      Orc Skeleton_1: -1071274644
+      Orc Skeleton_74: -314071748
+      Orc Skeleton_75: 1751121821
+      Orc Skeleton_21: 1394568424
+      Orc Skeleton_72: 927099599
+      Orc Skeleton_54: 233297328
+      Orc Skeleton_20: -569209654
+      Orc Skeleton_35: 1080630918
+      Orc Skeleton_18: 952651953
+      Orc Skeleton_51: -596127858
+      Orc Skeleton_3: 848054092
+      Orc Skeleton_40: -187098509
+      Orc Skeleton_83: -1664670016
+      Orc Skeleton_90: 1267707567
+      Orc Skeleton_85: 815586295
+      Orc Skeleton_52: 1868723899
+      Orc Skeleton_59: -1035346675
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

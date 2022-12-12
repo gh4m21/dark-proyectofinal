@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: 3929fb848c18c0044971fa603f8e8540
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Linde Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9a70afaee9f242869d3f7e40c462b
+      internalID: 1317492971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 232
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8855dcdfa84d24d9fb81b63e3b1b5d
+      internalID: -128517076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2bae3f4ffb0041aa96a26f3bf7f8a
+      internalID: 1982323033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 232
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3ee0a853a203429b8454885ab0861
+      internalID: 470676303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 231
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5d9a608daff343b61474d11f756d8
+      internalID: 1710198308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 232
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6f1419c8576e488a9ff583ada5e89
+      internalID: -316312227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 231
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9160af2465290045bfaed090bda1ab5
+      internalID: 74228332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9704f4c4231f56f4090cc1e9e457d685
+      internalID: -1579702095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 231
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062171f062f29145aae4993bd8186a2
+      internalID: 848532897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 234
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543c3a1cab217948b5385d9f7e30a04
+      internalID: 1901441231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 233
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400e2b4acdcae8458be73d208c85344
+      internalID: 1669488859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 232
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d8cb0720330f4f9e74817003c6563
+      internalID: 1078406001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 234
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584464e066d59a945a485cd03689c0f9
+      internalID: -441925851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 233
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f2586cc6221b4ca0896b596fd0f49
+      internalID: 875366849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d547f31f37a53149800cc993f476d3d
+      internalID: 807686628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c59a87eaa0c2eb4c80e7abe82b8ded6
+      internalID: -1425542192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67483047315bf9f46b98e8cb2b9e2d0f
+      internalID: -713172735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d548df6f59d1444b8f9657e06ac944
+      internalID: -155530004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733551a68fb6a64ab992b819ab9ea2f
+      internalID: -859495000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b54651484d714d986b942427015ea
+      internalID: -1446801144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7538e961c7925a642a642c541dc1b850
+      internalID: 1982714020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ddee4809dae246a262dc0d3f3bf09
+      internalID: 1186523026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae68d82c5c1bd34f9cad17326dbc4a4
+      internalID: -1244652982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba59599391f79d4a80c4922284e9e3d
+      internalID: 1196721696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 194
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f4d5237674814ea1cebe87710b860
+      internalID: -619404971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 202
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cc058dec912e34faadc4cac3504368
+      internalID: 1894767799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695b103b509669428c9a40375591a82
+      internalID: -91368590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ffb602f9be0e4e9beb82352377cb3
+      internalID: 870459841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c7520c7a87784fbbb0451a5a65e76
+      internalID: 1981597290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78345446077cac49959f1ecd525b1a4
+      internalID: 10843807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d76bf80ff2864bad658bf29032a16
+      internalID: -74578139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0babe21be91f851498683e101e51c012
+      internalID: -1555128590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9218149f96422ee42b216985b45443d0
+      internalID: 425765421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be308f6e83d814f9116f7b26ad9497
+      internalID: 349239009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 172
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb877ec4f78d1e2408769fb693fe8597
+      internalID: 1464975253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 169
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea97dd8cfa55e348b0087816e9f2517
+      internalID: -1959239829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8768e04b1141d48ba95c08fd8486ee
+      internalID: -1449207712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d532be0842544b438216b320ed3a8a8
+      internalID: 1497575956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c0495a4371bf4c9f5740bb36bbf8c
+      internalID: -1938748227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3803fcdfecf7dc5469b7555ad969482f
+      internalID: 1567755002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64511f409e1f6241a0496d031c0298a
+      internalID: 1727076906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 149
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9175fbe7a31d649a0bf15b725cc0a7
+      internalID: 1623606167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317f514dccd20ca4790ee1d9fc091c4a
+      internalID: -233821305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 145
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4ad8ba18180164b9e84a7215411790
+      internalID: 1720302994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e041da57361a840bc215b62691f719
+      internalID: -1506681803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c470728573ac5479cb2a6b76702cc4
+      internalID: 814108779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10822fa41e5437046a5bb187b3b22da5
+      internalID: 1660500777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa15c558e5e3347b5caca3fb915a4e
+      internalID: 600749859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e346ea6f35e3f84e9ffe41fcf45a089
+      internalID: 2012470130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 141
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa5bcede8dcb54fadeeb8a52dd905f
+      internalID: -627923956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 142
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a531644962ff46b3f3589f2beee58
+      internalID: -1870616621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 143
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e95cc830008724b9c472e0587abcb1
+      internalID: 86852745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed533e4457b1034393c79132ce54ef4
+      internalID: -1560760966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0923457b94a974692a6d665d0944e4
+      internalID: -1353838000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3899b8917d03840aa3021826e79fb2
+      internalID: 688798627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 111
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad62acfc4f66d4690751b379d306de
+      internalID: 277335305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c17c696414264fb3ffab8dac64b3f
+      internalID: -1319341087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 114
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307892bdf115514ba699266ca573e39
+      internalID: -465201753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf9700603dfa64aae91abf80c53a3d
+      internalID: -2032261055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196b886f21c2d4499a6c7187068a735
+      internalID: 1285618360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15d99c37a2ed542be91cdd0f73db7e
+      internalID: -550711902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 111
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621cd374736849a4db4f1a68f193747c
+      internalID: -1332620601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2df4be0ffad449a0adef85d7dd951
+      internalID: 1736591428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070d1afb163e34488873226bcf23f45
+      internalID: -408718130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f97496eed91a94b92ad4fdf888bb02
+      internalID: 1461646470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 113
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f584839ea823b4b83fd1dab7b92f99
+      internalID: -1854836499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 114
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b58f57eabef444bd5aba2d3c815b5
+      internalID: 1600825490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 112
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59156b033023bf04da157bd51552777e
+      internalID: 584184650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 113
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155614aca71b2641a936adfe47699f5
+      internalID: -1442263249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 114
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3ff34487a95944bbcbb61a2465152
+      internalID: -2103540516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c8e2697e640d469c963c76cd57f7a
+      internalID: 826775950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d5bc1a3fdf5e4a8e487121b327829
+      internalID: -24615817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c94625f21d08d49babb93418f6609c
+      internalID: 1358157142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 89
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063c15fef3fe2a4fad90c179e5ef847
+      internalID: 737262667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 88
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637235db18a9f844ae6dd1fd890a6d3
+      internalID: -199474395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 88
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6d26a2a2a26e40b8a292c834d2675
+      internalID: -2127043377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 89
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49639e276d8450344a41b46bf037c5bb
+      internalID: -1504182983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb5c922aaaca344b71c7d62152700b
+      internalID: 465481777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 88
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb91cf4a5b6e1a4d930ba28d2ef3106
+      internalID: -731358120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 89
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e81a4ad47a8b8439751622a615bc8e
+      internalID: -79515158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf69c589ad5da045b0c23a538490084
+      internalID: 1772364689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linde Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a03720452f60a4990847f57782f0cd
+      internalID: -1389315493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20db730c001b1764b878065ee619344e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Linde Overworld_12: -441925851
+      Linde Overworld_41: 1623606167
+      Linde Overworld_57: -465201753
+      Linde Overworld_25: 1894767799
+      Linde Overworld_59: 1285618360
+      Linde Overworld_16: -713172735
+      Linde Overworld_69: -2103540516
+      Linde Overworld_51: 86852745
+      Linde Overworld_8: 848532897
+      Linde Overworld_44: -1506681803
+      Linde Overworld_75: -2127043377
+      Linde Overworld_23: 1196721696
+      Linde Overworld_30: -74578139
+      Linde Overworld_36: -1449207712
+      Linde Overworld_66: 1600825490
+      Linde Overworld_79: -79515158
+      Linde Overworld_71: -24615817
+      Linde Overworld_34: 1464975253
+      Linde Overworld_81: -1389315493
+      Linde Overworld_77: 465481777
+      Linde Overworld_52: -1560760966
+      Linde Overworld_53: -1353838000
+      Linde Overworld_0: 1317492971
+      Linde Overworld_1: -128517076
+      Linde Overworld_4: 1710198308
+      Linde Overworld_55: 277335305
+      Linde Overworld_15: -1425542192
+      Linde Overworld_21: 1186523026
+      Linde Overworld_2: 1982323033
+      Linde Overworld_6: 74228332
+      Linde Overworld_9: 1901441231
+      Linde Overworld_37: 1497575956
+      Linde Overworld_35: -1959239829
+      Linde Overworld_47: 600749859
+      Linde Overworld_80: 1772364689
+      Linde Overworld_62: 1736591428
+      Linde Overworld_13: 875366849
+      Linde Overworld_33: 349239009
+      Linde Overworld_74: -199474395
+      Linde Overworld_29: 10843807
+      Linde Overworld_48: 2012470130
+      Linde Overworld_14: 807686628
+      Linde Overworld_17: -155530004
+      Linde Overworld_24: -619404971
+      Linde Overworld_63: -408718130
+      Linde Overworld_70: 826775950
+      Linde Overworld_5: -316312227
+      Linde Overworld_64: 1461646470
+      Linde Overworld_20: 1982714020
+      Linde Overworld_3: 470676303
+      Linde Overworld_43: 1720302994
+      Linde Overworld_50: -1870616621
+      Linde Overworld_61: -1332620601
+      Linde Overworld_28: 1981597290
+      Linde Overworld_49: -627923956
+      Linde Overworld_27: 870459841
+      Linde Overworld_76: -1504182983
+      Linde Overworld_39: 1567755002
+      Linde Overworld_22: -1244652982
+      Linde Overworld_7: -1579702095
+      Linde Overworld_65: -1854836499
+      Linde Overworld_18: -859495000
+      Linde Overworld_40: 1727076906
+      Linde Overworld_10: 1669488859
+      Linde Overworld_78: -731358120
+      Linde Overworld_56: -1319341087
+      Linde Overworld_26: -91368590
+      Linde Overworld_60: -550711902
+      Linde Overworld_67: 584184650
+      Linde Overworld_45: 814108779
+      Linde Overworld_19: -1446801144
+      Linde Overworld_72: 1358157142
+      Linde Overworld_73: 737262667
+      Linde Overworld_38: -1938748227
+      Linde Overworld_32: 425765421
+      Linde Overworld_11: 1078406001
+      Linde Overworld_58: -2032261055
+      Linde Overworld_54: 688798627
+      Linde Overworld_68: -1442263249
+      Linde Overworld_42: -233821305
+      Linde Overworld_31: -1555128590
+      Linde Overworld_46: 1660500777
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

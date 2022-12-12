@@ -1,0 +1,4545 @@
+fileFormatVersion: 2
+guid: 62f57296101fd654fb9fd7d76946c3ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 974
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d3c45b569c4d498ace50b8f3df2eb
+      internalID: -2003547795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 974
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba19e57bc69a94eb7cff3ec2854bb5
+      internalID: -1852794074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 974
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31451f29032b8f042b7278e4ebf7699b
+      internalID: -973217877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 974
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba94284b984fba4cbc3395d87a6f394
+      internalID: 1034292440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 974
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd29ca582e0dd48a91b5f368f639ee
+      internalID: -1284652923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 974
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b279e4f9298c1a4cbb9126f0934192c
+      internalID: 1624501000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 972
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7b1a1a8351fe4bb91bd5273fc765b
+      internalID: -375300689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 972
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407aa852982b5644a3084c7c5bd56b6
+      internalID: 2039289465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 972
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8031f4e45ee1b4789124ee60cca7fe
+      internalID: -178171999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 972
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc33dd061724784493976e5b33030fd
+      internalID: -1985352011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 972
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407892890e461743b1e167530399f45
+      internalID: 355442273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 972
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a49a815e0ecd4e989885be0bc703d
+      internalID: -490290392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 981
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9cb3b6e2e3e34983143498e33943a
+      internalID: -748227463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 978
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbd69f175d92f4f8a9eca4f021dcea
+      internalID: -1414966482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 908
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f997651c3426316479a006e788b5365d
+      internalID: 1048725587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 909
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7dc5a907b1b5249b8881dee3bc2764
+      internalID: 1637508906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 909
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5dcbb0fa8f866489409aca7117543f
+      internalID: 1390906950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 908
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef0cff4444ff9408fcbaaa6fd22c5c
+      internalID: 1947754415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 908
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7774b0f120580b94e853d71b809c4df8
+      internalID: 371370295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 909
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6781229257f6db4bb28023c5a38d1c8
+      internalID: -532968597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 906
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28dcbab365310d4b9b8680a16e716cd
+      internalID: 1191078463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 907
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c95e7af6abd44d8c1e093f4224bc9
+      internalID: 44624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 907
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae116377031ad4da45a984a7caae61
+      internalID: -609330172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 906
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281c7a6bebfc014b95229717e47129a
+      internalID: -1601166858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 906
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fab7a70d12c6e448886c12fc2979f3
+      internalID: -80909936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_25
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 907
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2206d3f020874c85ca27c54ced543
+      internalID: -1783157642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_26
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 942
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e141beaaef4643be7f1dd75273488
+      internalID: -1979535126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 939
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0568ecf9353e63a4f9183437758b8e7d
+      internalID: 714255183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_28
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 905
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf39a00c9775a438aef8634ba85e63
+      internalID: -2119592498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_29
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 905
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d9f0ff1e002d48811f4c9d06c8080
+      internalID: -1209588599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 854
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec0f19442d6d149aaac2b53b48ee9a
+      internalID: 483105172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 855
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635ebeeed8a418409b3164274dd1f28
+      internalID: 284441300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 855
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da141659adc2cbe4a861b914c6112f5a
+      internalID: -1336898891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 855
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0da16820b46a64888954feed440764
+      internalID: -1132256933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 855
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20949ea6cfaef2c4b8a8b6340f279957
+      internalID: 944676753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 855
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc84809ca5fb0d945acbea0c0317560b
+      internalID: -2107604641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 855
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f305022a7f07d4ca436bdb34bf0bb3
+      internalID: 109177010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 855
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b195567f240b54395986b4f8068962
+      internalID: 145938701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 855
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32a3a676968314583124ea19d61a6e
+      internalID: 34966200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 855
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366a92edfd8e484ea25a69b6d45953b
+      internalID: 936353536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 855
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d348f9a89a53904691faa98354aa57c
+      internalID: 172848030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_41
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 855
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42684741673e304696124095b2744bb
+      internalID: 1153698988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 855
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dcc2cc0ba666544acbaf02fe133b4c
+      internalID: -2045119205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 855
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2fc3bee71e174ba6783bce9cbaafc
+      internalID: 2122148722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_44
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 855
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8811f779837b749be7dfc71b8015e1
+      internalID: 1195946213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_45
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 855
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311403a7ce9f03c4fb03686ea61133e0
+      internalID: -1843439862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 807
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9605d34dc7bb70d48b54ebf607c0a598
+      internalID: 988790329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 807
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b90539bfa6e0d4aa5969e0889b662d
+      internalID: -1683951712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 807
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6485c102d233a41aa113385931277e
+      internalID: 1080069780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 807
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf4e21b5b9d8449bcea232e4e2140d
+      internalID: 1587880720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 806
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef57b399177c714e837c31f74fb8981
+      internalID: 1101613221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 805
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e2cc554200ca408109221767da50e
+      internalID: 343396132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 801
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b7aa7e13a52114582873910e4906ae
+      internalID: 1578178153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 801
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254852e7290276449fa219e1f04c10e
+      internalID: 890766357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 806
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e10b8ab9a769f4fa0e94f8f22a9a98
+      internalID: 935446858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 806
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785ea4c20ac0ef428869e03728a4b55
+      internalID: -1753063315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 806
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9941b75e816445a67205773497f9d
+      internalID: -546807028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 806
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c4d9a2413f0048b5b9ba2a0319614
+      internalID: -1383192523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 757
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123462fb4809b704f984d91452317bec
+      internalID: -649460441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 758
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23348ea9dbf57a42be1eabab691708b
+      internalID: -1028842046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 758
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab377b6a47e4e48bde0a4d36222e94
+      internalID: -437036080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 757
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1589d404ad0443a4f9d949f1918f6
+      internalID: -584525990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 757
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70c0b2c17512247975c383d4a559c2
+      internalID: -913199210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 758
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67204c503a52ad4d8efc9309cdfbf40
+      internalID: -568501759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 757
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04a338ee7478949b94a1e305180220
+      internalID: 1423067253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 758
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc781d8a1cd6db4e8a87560905932a2
+      internalID: 30104850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 758
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2a526813baf34caec6ac9d1d1a47f
+      internalID: -1051614910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_67
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 758
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674527e93da7714c8176a24515d6749
+      internalID: 1936014952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_68
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 757
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bcc73697f2d4f4588a1719215ea8ce
+      internalID: 650361362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 758
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f554f075f2ba12245a3656fe2408284d
+      internalID: -187123433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_70
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 758
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b831552b0ea9fd948bb1dc691bda21aa
+      internalID: 1670935278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_71
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 757
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567de89fa3365e42b0328094b3d7695
+      internalID: 679506203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_72
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 757
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2397a114c8d70d40b71056175a1935b
+      internalID: -490555579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_73
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 758
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf11271b31969d4aa7d4f7e0142285c
+      internalID: 1976239991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 708
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430aff499c21f9640904fac59028537c
+      internalID: -249399732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 709
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2924f30785814da7a3d05f0ad527e
+      internalID: -451111380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 709
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15302e052f305674eb367bde112dc29d
+      internalID: -1100040856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 705
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c2d8f1044a8f49b21fb891964049e
+      internalID: 883186719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 711
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084a29ec8fd9ad4eb27125477cb87f0
+      internalID: 494690414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 710
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1dd86a9b7818040af8acce023eaf79
+      internalID: -1860068652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 709
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da11b8bfca396f24c94fe6f3d0d28407
+      internalID: 1945714452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_81
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 708
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58494ad79b991ad4983ab027ea8da847
+      internalID: -466301197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_82
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 709
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d04607ce7be247927d4ef54fb0bd5
+      internalID: -2001731314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 709
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507aebef6062fd47a562d12bbd23a3a
+      internalID: -643940376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_84
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 708
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc31b17cb4ba94b98d0535e2758b6c
+      internalID: 1505218186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 708
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742005b102ed08b4cbc1910ae9e44ecd
+      internalID: 2101756409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 663
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827529d67479ded498f3094ca39d08e2
+      internalID: -463995976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 669
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b4a166b69d5c4aa9f01836cb7a518
+      internalID: -753571276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 670
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c110ad99ed31ae4e9591fe3a4e56702
+      internalID: 886797576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 671
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d69c9d605640b342b4b80652dd4bd61
+      internalID: -1011956779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 671
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839dcd77f74c4f42b1e56c910fd579c
+      internalID: -605008097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 670
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85afffd30465ff84dab04f945040a7c4
+      internalID: -1779810700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 671
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f49982d7f47494290d66035e3b11af
+      internalID: 28551641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 671
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894026ed39c003545a4b8c66d22dd5e1
+      internalID: 820243119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_94
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 671
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ef834e71fc764a91597bd7e6665b5
+      internalID: -931656338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_95
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 671
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9af066fafeec47a2d886061480f0e
+      internalID: 130358861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 671
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa18e31c644b18488d4d2c356ef1a8e
+      internalID: 348334964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_97
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 671
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba28bfcad9197458927cda5318014d
+      internalID: 1156633455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_98
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 671
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaace3b96cfc8249b02518072e7b44c
+      internalID: -1106017209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 614
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1c430608065864ab6cf6822ffbb4fd
+      internalID: 475995586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_100
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 612
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b1b91391ff734a8a5593c9236af95
+      internalID: 1696122886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_101
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 617
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423286888c1a1c14e84c7f287f93d4af
+      internalID: 207055245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 617
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dceb34cca4053b4990e998498eadb98
+      internalID: 391258397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 614
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf19980a9c50e4ca354d2bc7e5eb1e
+      internalID: 1292174824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 614
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a4dc43890e994caaf5a7bcc6abf8f
+      internalID: 1312938146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 615
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bcae816b1668c41b90001f588c774f
+      internalID: -230189793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_106
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 614
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0a6fe8ba53f348a8d315057f5732c
+      internalID: 1327394468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45999eedbf5e3424cbc34cb8b36ad640
+      internalID: -825588232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 615
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b450818a2e459c489f70def3cee104e
+      internalID: 117163470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_109
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 614
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8b2e2b9f757f438b9b7b8ae9ee902
+      internalID: -1814829666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_110
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 614
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1835863fd7944693c755e04a1181a
+      internalID: -221695044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_111
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 615
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415831fd31e46b4c91a5e8afe882340
+      internalID: -173829603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 566
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a2b4fb9802b04586691e838c16719
+      internalID: -2114525906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_113
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 565
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c5781c6ca54f48aaf24d7cbf6d643
+      internalID: 1140278639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 566
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcaa7cbb31359745b03b3a9e7b5bf08
+      internalID: 421520852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 565
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd49dcc57e07d4db73280875e7c40d
+      internalID: -1423119814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_116
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 566
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd64f80b455d543a795532f6098830
+      internalID: 45276336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_117
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 566
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12144b6f60b367047bacc29f1c6ddc4f
+      internalID: 1262936825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_118
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 570
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd06d28f5078344cbfbdb8815d67458
+      internalID: 1455254837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 570
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ceb47a5e4da554cb3d0ef8679575d6
+      internalID: 149632798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 570
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32830c65f70b3b46840bd02dc6817bf
+      internalID: -1378539911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_121
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 570
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233f06de96d6bd4eb2058b75d49c55f
+      internalID: 1148759649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_122
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 570
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1278d06220ad143a4f8c75f82161c4
+      internalID: 1689884521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_123
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 570
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04dde528ba53e4e9d16a3ad7bf0272
+      internalID: 1942826233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_124
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 571
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5aecfae8c17444995f3fb7a7328844
+      internalID: -168243439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_125
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 562
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889d9e815f007b4aae1f5866bfc8a12
+      internalID: 549786098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 515
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f78bf9003fd764984c37a4a23ece62
+      internalID: 1489702204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_127
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 513
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d05288152a507488085e5a8afd3b16
+      internalID: 511127782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 514
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73919b7430707b44a83c2448c42a135a
+      internalID: -491863562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 514
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83ced8caaffc143b645a53d0fc7152
+      internalID: -1136002366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_130
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 514
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ac19f90deb0248a53b73bd7ea579b
+      internalID: -1865321113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_131
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 515
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6563a5842dd7284a88a9ce1fa40832b
+      internalID: -2105359566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_132
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 523
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529a3548a31317478fb31282ee7de8d
+      internalID: 855801543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 523
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa2ea644b17d8e4682c2c338f0da836
+      internalID: -1210901266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_134
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 523
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6126e21a10a0cc488e15b4b196a24fd
+      internalID: 2004110335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 523
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcfb56e50c688f47be4bb3bcb46cea2
+      internalID: -784755779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_136
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 523
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a95bb19eb5f44b9644f8f664dada1
+      internalID: -1483530184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 523
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36ac889d5685e4b8fa1e824cbbdc7a
+      internalID: -404875820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_138
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 478
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68668d0e2143a234e8d936b2003f75af
+      internalID: -351349446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_139
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 478
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c383bac635fb4693a3daaf384ef03
+      internalID: 208603697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_140
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 478
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5435c2887522146b2cd38e4fac5abc
+      internalID: 1060758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_141
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 478
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7463a90670c104b9fc47ba2f1492b9
+      internalID: -213349574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 478
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af11f532b82710a4f90c60314c67597d
+      internalID: -851514506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_143
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 478
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5c61b07fceb345bd86615bb99a725
+      internalID: 2119781173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 436
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b829322a6edaf4889701a4e06b6140
+      internalID: 225967722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_145
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 437
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6fa217175d3fc4aaef78d24709244e
+      internalID: -704340650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_146
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 437
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73613cbcde5f7c4799f21fefd73707d
+      internalID: 1659537025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_147
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 436
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b4bb7517ba014293db3a5b782e9ba
+      internalID: 260633395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_148
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 436
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc766bacf26764695725dd61e2d667
+      internalID: 1659476639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_149
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 437
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1b36e2119ea442805f58a5219e10b
+      internalID: 1225703806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_150
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 272
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a041420c3abe44ac27e0fafaaeb76
+      internalID: 661958693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_151
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 277
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa61b049741bc4aac9870a00e2be13
+      internalID: -139111017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_152
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 310
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3395c2f1ac34b964e8c2f59e3aab10eb
+      internalID: -1949129496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_153
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 310
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb736b341403984d8a7bdd049921567
+      internalID: -1796068742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_154
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 311
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c1a2ae280c234290c372638901b6e
+      internalID: -383285749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_155
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 310
+        width: 100
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce936db10ca67644ab5935b0fa4c98e
+      internalID: -346463376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_156
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 290
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c741b44cb655744aed51c26b84a426
+      internalID: -1160418980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_157
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 292
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d2dc8a0d9b3d428a85c45924234a0
+      internalID: 1508949805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_158
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 290
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c277e9bf70a6ff41a104a43956a7e3a
+      internalID: 295511362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_159
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 292
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107fe9780894ee645a5b5c7fe6c201f6
+      internalID: 177984882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_160
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 273
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eeb62f6e08d6a40b7585a7b787bda1
+      internalID: -79980988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 274
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c53eeeb85fed248a7c6de9c766ce39
+      internalID: -2019864108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_162
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 274
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee8d56fad5fb4347952b099e94df16a
+      internalID: -1864215886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_163
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 214
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aba0eb0aa8f2844af77c912c5fc7af
+      internalID: 1366970754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_164
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 233
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6b66a9b51bb240b74b9b100717a21
+      internalID: 1078797079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_165
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 209
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e5d852b2a17044b6c896d045b3b54
+      internalID: 1457187401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_166
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7cf17137d9de9419e7e0ee4067b505
+      internalID: 39950994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc4e42c2c86224eac6e5ffbdd1b54a
+      internalID: 956195026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_168
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df70e923e08c2c4c832961d380eb92d
+      internalID: 325548818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_169
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 198
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c3ad2703e6a747bf915c984ef5ef3
+      internalID: 2130439581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_170
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 209
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92056e72aca2014988872829ed9674b
+      internalID: 193960717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_171
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 198
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6be5b25e76ee04d84dd4601270b804
+      internalID: -415251765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_172
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 198
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2a57c53451684f9196bef74a31983
+      internalID: 1392585964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_173
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d70c8ea06fe749956f4704016e919
+      internalID: -1301857447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_174
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 203
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2fe3de6bb9a847ac4a590b4fffeaa
+      internalID: 773827241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_175
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 189
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35056a5075fa944a25445588cea3b5
+      internalID: 1323121622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_176
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21b9d060f749d4ea38a53e5c79135f
+      internalID: 1545825350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d78027549dba9498703379e1bdf861
+      internalID: -346745376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_178
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 190
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e0a5b125c4ba4c8d1b4c93f322a79
+      internalID: 1109760839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_179
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 190
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58f59bf0233f043bb356606860b98d
+      internalID: 748382333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_180
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 192
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad605c684dca54580b74dc1a6ad0cf
+      internalID: 1331584661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_181
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 93
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6e8ff54140444195da822bbeff665
+      internalID: 1587682210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_182
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4174b74375b14ebcd1ccb59aa66d1
+      internalID: 682598340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_183
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 103
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b5fa78bb245548a44a11c8f6dac82
+      internalID: 161575191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_184
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 129
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0834ed2b152faa4c8cb8190bda2b950
+      internalID: 921645914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_185
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 125
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d97449b9856d4b8bcb58ee9d7e046
+      internalID: 476055544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_186
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919db686da8da434fb2cca878be39546
+      internalID: 71782323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_187
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 87
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bdca4da67d8884c9b3c3de257c656b
+      internalID: -1779486759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_188
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc74036772ba1084aa15e1111fc3c82c
+      internalID: 839287648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_189
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 87
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f4500dceb58c498da8941b71022b5
+      internalID: 537175239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_190
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 91
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe956f1ede51623439635f8d59b88e83
+      internalID: 1766366004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_191
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 91
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca68cdfea35d94409097e823a2b26b8
+      internalID: 1263713259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_192
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 91
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2055531cebac4a6439a0cc60a25b2138
+      internalID: 770105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_193
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 91
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1b01ef8331f947b9c4691cc0e5968
+      internalID: 593318912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_194
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c79e8a103be3418103f2be5d9fc38
+      internalID: 442571796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_195
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963fc85f6b26be4bb226a363c7b33dd
+      internalID: -1435467704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_196
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434969c2c7b7d74ba59cbe9a4ea6698
+      internalID: -351455746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_197
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71196bc2b03adc74891922935e4e096f
+      internalID: 1192859581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_198
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9c38fb6891834ab2566c227ca72e2
+      internalID: -1740337950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_199
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a64dfc749e6f42b259a66ec8a4709
+      internalID: 1364579382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streibough Lord of Dark_200
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba509db9bcf621d4a8d0add05a9cf9fc
+      internalID: 183466019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7eb34cbfb232c0a4db834f87c8d95db4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Streibough Lord of Dark_72: -490555579
+      Streibough Lord of Dark_177: -346745376
+      Streibough Lord of Dark_138: -351349446
+      Streibough Lord of Dark_4: -1284652923
+      Streibough Lord of Dark_2: -973217877
+      Streibough Lord of Dark_122: 1689884521
+      Streibough Lord of Dark_127: 511127782
+      Streibough Lord of Dark_50: 1101613221
+      Streibough Lord of Dark_187: -1779486759
+      Streibough Lord of Dark_164: 1078797079
+      Streibough Lord of Dark_42: -2045119205
+      Streibough Lord of Dark_129: -1136002366
+      Streibough Lord of Dark_84: 1505218186
+      Streibough Lord of Dark_54: 935446858
+      Streibough Lord of Dark_109: -1814829666
+      Streibough Lord of Dark_154: -383285749
+      Streibough Lord of Dark_66: -1051614910
+      Streibough Lord of Dark_114: 421520852
+      Streibough Lord of Dark_91: -1779810700
+      Streibough Lord of Dark_171: -415251765
+      Streibough Lord of Dark_190: 1766366004
+      Streibough Lord of Dark_125: 549786098
+      Streibough Lord of Dark_199: 1364579382
+      Streibough Lord of Dark_142: -851514506
+      Streibough Lord of Dark_56: -546807028
+      Streibough Lord of Dark_5: 1624501000
+      Streibough Lord of Dark_99: 475995586
+      Streibough Lord of Dark_78: 494690414
+      Streibough Lord of Dark_191: 1263713259
+      Streibough Lord of Dark_28: -2119592498
+      Streibough Lord of Dark_123: 1942826233
+      Streibough Lord of Dark_73: 1976239991
+      Streibough Lord of Dark_36: 109177010
+      Streibough Lord of Dark_136: -1483530184
+      Streibough Lord of Dark_158: 295511362
+      Streibough Lord of Dark_40: 172848030
+      Streibough Lord of Dark_37: 145938701
+      Streibough Lord of Dark_131: -2105359566
+      Streibough Lord of Dark_22: -609330172
+      Streibough Lord of Dark_44: 1195946213
+      Streibough Lord of Dark_23: -1601166858
+      Streibough Lord of Dark_94: -931656338
+      Streibough Lord of Dark_71: 679506203
+      Streibough Lord of Dark_150: 661958693
+      Streibough Lord of Dark_9: -1985352011
+      Streibough Lord of Dark_188: 839287648
+      Streibough Lord of Dark_63: -568501759
+      Streibough Lord of Dark_100: 1696122886
+      Streibough Lord of Dark_194: 442571796
+      Streibough Lord of Dark_83: -643940376
+      Streibough Lord of Dark_14: 1048725587
+      Streibough Lord of Dark_46: 988790329
+      Streibough Lord of Dark_24: -80909936
+      Streibough Lord of Dark_173: -1301857447
+      Streibough Lord of Dark_55: -1753063315
+      Streibough Lord of Dark_1: -1852794074
+      Streibough Lord of Dark_139: 208603697
+      Streibough Lord of Dark_118: 1455254837
+      Streibough Lord of Dark_86: -463995976
+      Streibough Lord of Dark_196: -351455746
+      Streibough Lord of Dark_79: -1860068652
+      Streibough Lord of Dark_143: 2119781173
+      Streibough Lord of Dark_193: 593318912
+      Streibough Lord of Dark_80: 1945714452
+      Streibough Lord of Dark_197: 1192859581
+      Streibough Lord of Dark_62: -913199210
+      Streibough Lord of Dark_141: -213349574
+      Streibough Lord of Dark_176: 1545825350
+      Streibough Lord of Dark_26: -1979535126
+      Streibough Lord of Dark_82: -2001731314
+      Streibough Lord of Dark_183: 161575191
+      Streibough Lord of Dark_19: -532968597
+      Streibough Lord of Dark_92: 28551641
+      Streibough Lord of Dark_76: -1100040856
+      Streibough Lord of Dark_38: 34966200
+      Streibough Lord of Dark_13: -1414966482
+      Streibough Lord of Dark_128: -491863562
+      Streibough Lord of Dark_184: 921645914
+      Streibough Lord of Dark_93: 820243119
+      Streibough Lord of Dark_156: -1160418980
+      Streibough Lord of Dark_15: 1637508906
+      Streibough Lord of Dark_25: -1783157642
+      Streibough Lord of Dark_18: 371370295
+      Streibough Lord of Dark_179: 748382333
+      Streibough Lord of Dark_155: -346463376
+      Streibough Lord of Dark_49: 1587880720
+      Streibough Lord of Dark_195: -1435467704
+      Streibough Lord of Dark_33: -1132256933
+      Streibough Lord of Dark_90: -605008097
+      Streibough Lord of Dark_147: 260633395
+      Streibough Lord of Dark_174: 773827241
+      Streibough Lord of Dark_58: -649460441
+      Streibough Lord of Dark_144: 225967722
+      Streibough Lord of Dark_87: -753571276
+      Streibough Lord of Dark_181: 1587682210
+      Streibough Lord of Dark_74: -249399732
+      Streibough Lord of Dark_47: -1683951712
+      Streibough Lord of Dark_166: 39950994
+      Streibough Lord of Dark_133: -1210901266
+      Streibough Lord of Dark_16: 1390906950
+      Streibough Lord of Dark_20: 1191078463
+      Streibough Lord of Dark_186: 71782323
+      Streibough Lord of Dark_77: 883186719
+      Streibough Lord of Dark_12: -748227463
+      Streibough Lord of Dark_101: 207055245
+      Streibough Lord of Dark_134: 2004110335
+      Streibough Lord of Dark_29: -1209588599
+      Streibough Lord of Dark_35: -2107604641
+      Streibough Lord of Dark_65: 30104850
+      Streibough Lord of Dark_146: 1659537025
+      Streibough Lord of Dark_140: 1060758807
+      Streibough Lord of Dark_130: -1865321113
+      Streibough Lord of Dark_189: 537175239
+      Streibough Lord of Dark_104: 1312938146
+      Streibough Lord of Dark_198: -1740337950
+      Streibough Lord of Dark_116: 45276336
+      Streibough Lord of Dark_17: 1947754415
+      Streibough Lord of Dark_137: -404875820
+      Streibough Lord of Dark_111: -173829603
+      Streibough Lord of Dark_117: 1262936825
+      Streibough Lord of Dark_41: 1153698988
+      Streibough Lord of Dark_165: 1457187401
+      Streibough Lord of Dark_135: -784755779
+      Streibough Lord of Dark_85: 2101756409
+      Streibough Lord of Dark_108: 117163470
+      Streibough Lord of Dark_61: -584525990
+      Streibough Lord of Dark_172: 1392585964
+      Streibough Lord of Dark_192: 770105265
+      Streibough Lord of Dark_43: 2122148722
+      Streibough Lord of Dark_178: 1109760839
+      Streibough Lord of Dark_167: 956195026
+      Streibough Lord of Dark_185: 476055544
+      Streibough Lord of Dark_70: 1670935278
+      Streibough Lord of Dark_68: 650361362
+      Streibough Lord of Dark_69: -187123433
+      Streibough Lord of Dark_145: -704340650
+      Streibough Lord of Dark_120: -1378539911
+      Streibough Lord of Dark_157: 1508949805
+      Streibough Lord of Dark_48: 1080069780
+      Streibough Lord of Dark_168: 325548818
+      Streibough Lord of Dark_67: 1936014952
+      Streibough Lord of Dark_89: -1011956779
+      Streibough Lord of Dark_110: -221695044
+      Streibough Lord of Dark_3: 1034292440
+      Streibough Lord of Dark_159: 177984882
+      Streibough Lord of Dark_60: -437036080
+      Streibough Lord of Dark_53: 890766357
+      Streibough Lord of Dark_119: 149632798
+      Streibough Lord of Dark_8: -178171999
+      Streibough Lord of Dark_52: 1578178153
+      Streibough Lord of Dark_59: -1028842046
+      Streibough Lord of Dark_162: -1864215886
+      Streibough Lord of Dark_10: 355442273
+      Streibough Lord of Dark_96: 348334964
+      Streibough Lord of Dark_124: -168243439
+      Streibough Lord of Dark_180: 1331584661
+      Streibough Lord of Dark_21: 44624619
+      Streibough Lord of Dark_31: 284441300
+      Streibough Lord of Dark_170: 193960717
+      Streibough Lord of Dark_151: -139111017
+      Streibough Lord of Dark_51: 343396132
+      Streibough Lord of Dark_113: 1140278639
+      Streibough Lord of Dark_126: 1489702204
+      Streibough Lord of Dark_97: 1156633455
+      Streibough Lord of Dark_27: 714255183
+      Streibough Lord of Dark_75: -451111380
+      Streibough Lord of Dark_149: 1225703806
+      Streibough Lord of Dark_0: -2003547795
+      Streibough Lord of Dark_200: 183466019
+      Streibough Lord of Dark_81: -466301197
+      Streibough Lord of Dark_95: 130358861
+      Streibough Lord of Dark_34: 944676753
+      Streibough Lord of Dark_30: 483105172
+      Streibough Lord of Dark_103: 1292174824
+      Streibough Lord of Dark_182: 682598340
+      Streibough Lord of Dark_39: 936353536
+      Streibough Lord of Dark_45: -1843439862
+      Streibough Lord of Dark_163: 1366970754
+      Streibough Lord of Dark_160: -79980988
+      Streibough Lord of Dark_88: 886797576
+      Streibough Lord of Dark_161: -2019864108
+      Streibough Lord of Dark_11: -490290392
+      Streibough Lord of Dark_169: 2130439581
+      Streibough Lord of Dark_107: -825588232
+      Streibough Lord of Dark_121: 1148759649
+      Streibough Lord of Dark_57: -1383192523
+      Streibough Lord of Dark_32: -1336898891
+      Streibough Lord of Dark_132: 855801543
+      Streibough Lord of Dark_152: -1949129496
+      Streibough Lord of Dark_98: -1106017209
+      Streibough Lord of Dark_102: 391258397
+      Streibough Lord of Dark_105: -230189793
+      Streibough Lord of Dark_106: 1327394468
+      Streibough Lord of Dark_115: -1423119814
+      Streibough Lord of Dark_153: -1796068742
+      Streibough Lord of Dark_112: -2114525906
+      Streibough Lord of Dark_148: 1659476639
+      Streibough Lord of Dark_7: 2039289465
+      Streibough Lord of Dark_64: 1423067253
+      Streibough Lord of Dark_6: -375300689
+      Streibough Lord of Dark_175: 1323121622
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
