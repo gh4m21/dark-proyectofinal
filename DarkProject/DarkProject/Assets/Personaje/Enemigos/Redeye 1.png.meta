@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 067a68e3b2a13134e8cafddc9ad992b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Redeye 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb4703e1c43b045ba619525be64fef
+      internalID: -33071130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 238
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf91cbfdb3b4fe4a9db53f22924a2ca
+      internalID: -2039191267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 236
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7452bc09e9bb5d4c89cb52849615a28
+      internalID: -459527657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 238
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559f8659a7fab54fa61bc2602b8731d
+      internalID: -345767727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 244
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2956d06304b8040b4e5fb689c34817
+      internalID: -1006901151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b894653b838243a69fc4c01c58373
+      internalID: -981305863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 157
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f0f0a4f08a184fa894684cbeb8d4d
+      internalID: 1090041763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 162
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7450fe8cb1dc924a8fc01ba3446c6c7
+      internalID: 1744640438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb128f7dc1f0b47a1bcbbaeb3413e2
+      internalID: 686944337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 86
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d824b9fd603c1e44a0bf530b165318b
+      internalID: -773708186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 83
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf31026ad812b143aefc2543fc1fbe5
+      internalID: 1578128720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5dd6499678a44b8ad2aae498b0c0d
+      internalID: -644801641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a90f0430822e46bdfff9c2c3faccf
+      internalID: -496894014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ab7d3b7a272b47acab3f401d4dc39
+      internalID: 46096269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 6
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3854303f6e6a1144bdf9cd8c3601803
+      internalID: 794686513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_44
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 4
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2ae39a653d174cb367ed64231471b
+      internalID: 1639832457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 158
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01147b343696040915a715fddbc332
+      internalID: 1507451248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 89
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6433488a56ce6345bb9cd52c2c55050
+      internalID: 1866121337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Redeye 1_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 90
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969c86186f4bda48ac87a3393cfe5e6
+      internalID: 643923837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edfc8b2b4981bae42ac6978922f1af09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Redeye 1_43: -1216395001
+      Redeye 1_24: -417249922
+      Redeye 1_34: -1457006780
+      Redeye 1_18: 1744640438
+      Redeye 1_10: 1373829340
+      Redeye 1_13: 445768819
+      Redeye 1_29: 1578128720
+      Redeye 1_38: -496894014
+      Redeye 1_25: 1008894150
+      Redeye 1_47: -1560162499
+      Redeye 1_16: 1090041763
+      Redeye 1_11: -981305863
+      Redeye 1_7: -1006901151
+      Redeye 1_40: 46096269
+      Redeye 1_31: 1562693554
+      Redeye 1_48: -1749025088
+      Redeye 1_42: -111622569
+      Redeye 1_8: 1608625978
+      Redeye 1_37: -644801641
+      Redeye 1_9: 1827206997
+      Redeye 1_20: -262855853
+      Redeye 1_21: -952606073
+      Redeye 1_36: -1785886231
+      Redeye 1_4: -459527657
+      Redeye 1_15: 299775672
+      Redeye 1_45: 616501743
+      Redeye 1_41: 794686513
+      Redeye 1_3: 1866121337
+      Redeye 1_0: -33071130
+      Redeye 1_17: 1159271279
+      Redeye 1_35: -275525048
+      Redeye 1_27: -773708186
+      Redeye 1_22: 1576377961
+      Redeye 1_5: 643923837
+      Redeye 1_33: 1695096337
+      Redeye 1_12: -62140221
+      Redeye 1_26: 686944337
+      Redeye 1_14: -1749740380
+      Redeye 1_32: 1633056764
+      Redeye 1_39: -262778692
+      Redeye 1_28: 2031761657
+      Redeye 1_30: 629165227
+      Redeye 1_19: -1210085300
+      Redeye 1_44: 1639832457
+      Redeye 1_6: -345767727
+      Redeye 1_2: 1507451248
+      Redeye 1_46: 503415863
+      Redeye 1_23: 1498419355
+      Redeye 1_1: -2039191267
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

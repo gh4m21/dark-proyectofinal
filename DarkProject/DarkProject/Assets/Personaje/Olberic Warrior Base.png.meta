@@ -1,0 +1,4919 @@
+fileFormatVersion: 2
+guid: dd74fd8f3225e6b47be776c8f6ee10dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Olberic Warrior Base_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8b71e74520714ab1191f1977a3308
+      internalID: 1623391481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 476
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a830204e232c0c43802819bd864b836
+      internalID: 318097747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 478
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d3b51b15224cc41ada8b7824fedc4b
+      internalID: 1497326455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 480
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f6e1c3633ce44c9c2450da503b873
+      internalID: 1170299218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 481
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c062b5850aea8314bbb3a1039b7631dc
+      internalID: 2045043826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 481
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a2ffb986bec9498550022a0a8fab3
+      internalID: 1870899975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 471
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444a8b2e20f71d4c8067155650010a0
+      internalID: -729558705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 476
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4730310719a0f5841abfeb683e89a8b2
+      internalID: 1420882035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 478
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fce698d8bbe4341b99488f73804f23
+      internalID: -501657625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 480
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9897b62ea4f0b54fbf450d5a69d0a4c
+      internalID: 652230768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 481
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c30963ef33c654ab709706ec8ee550
+      internalID: -860040305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 481
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e85509985445c45a1be9b83ad0430a
+      internalID: 2086087269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 435
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01aac12fb1371145bfef0b4a9a6a76d
+      internalID: -368184112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 435
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a144a5e887cde846a8386ff76d6f247
+      internalID: -1195055515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 435
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709df946ca94073488c25e527ab01ed5
+      internalID: -1752371968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 435
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459ce16365fc1042b1b6ae69d506393
+      internalID: 151859634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7162391a8d4dd4c9324f02d46544f1
+      internalID: -1727213535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2fa84ca396bda4c8b167eba462e96f
+      internalID: 769121601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03c3d45cffee849ae8f3afa839887b
+      internalID: -514593363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901a8d71ee33aa41a8bae08f1e1ea2b
+      internalID: 481540897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76233493470184e4fa938b425f528425
+      internalID: -307120055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2392adf9fc42e4fa30c3617f4e7669
+      internalID: 1538872601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f98bdcface761449c6ed6d36e5b161
+      internalID: 154131452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 444
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b49eeb8ae8fa43931ec1259b38853
+      internalID: -151918312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 435
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8e4550b9e7084dad348dafb394a35
+      internalID: 414353500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 437
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cea578b39723448a2fc341dbdcf139
+      internalID: 1163392611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 426
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f22d28d82d8804c92a86f035aa7ed4
+      internalID: 396820450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 439
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e323c7e3788e4fb0b87a41b6e6535
+      internalID: -986070617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 440
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4cde82dbf69a7439af5f8ee86378e0
+      internalID: 1820146511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 440
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a9804f1ebd9e4eaad250c046cf411
+      internalID: -214972577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356c23126b2b5b4aa6ced3781ed49fa
+      internalID: 1939385258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 392
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ad73c333a9974a97a8c15f8664a47
+      internalID: 418259511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 390
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe442ec60274ee469081ee49352f222
+      internalID: 662819177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 392
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b6b653655fa04fbf1fa98dc09fe87
+      internalID: 1626217998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 381
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec6bf1bac1dce4b91506309c844897
+      internalID: 1237188163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 394
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb30034b1e1cef4d91f017d8c441514
+      internalID: 934596413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 395
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a549571e61e56574198edd7d9dfd3bdc
+      internalID: -736781896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 395
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8a679234fbed41b343fc3ac61e7b6
+      internalID: -947526780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 394
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351040297066c2844bf5c0bb3906bf9c
+      internalID: -1280841241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 392
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e207e3698d5684d9b08fbe4d65928b
+      internalID: -1460672236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 390
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d4d4baf588424b8f77a156cf16fef
+      internalID: 1108584267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 391
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4505d3e32815c49815cb04acb6d45b
+      internalID: -890456660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e617997c63af04ea571bdbcdcd6fa8
+      internalID: 1673109221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 347
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c4fc88fe39364ea130c68cc75f67a
+      internalID: 324864428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 346
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b6addae38cca4f8f5fa7fb2666c02
+      internalID: -1179465457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 345
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf695fa721686f54b9a425f14e8a04dc
+      internalID: 1581667278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 346
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a58d62b672edb48aa72193b8809d04
+      internalID: 1192219087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 347
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae2582488dcbb49bbfcc4effa5a668
+      internalID: -2003347383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 347
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c866e83412593745894774859df9168
+      internalID: -1006214373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_49
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 346
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d60b960657db940a45cacb6de07ba5
+      internalID: -1029394902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_50
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 347
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c21fa0f822234aa5c5f1d5e79aefc
+      internalID: -1969104343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 347
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f90310d67902498a98172d4e47854
+      internalID: 399798279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 346
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9688835870af17c4ab9b17b0dce11ba0
+      internalID: 21228061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 346
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8379d9f6e4521c458e8c185700e8dba
+      internalID: -1238634985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ee86ca409caf478541d1266cc468b
+      internalID: 1052642599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8bd54f989aa548a7a34d3506dc373
+      internalID: 1019734819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f83ba5ea8a81449eade5524feb2f9
+      internalID: -1257751962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e47c9084b2a0a44fbb648821827c2bb
+      internalID: 992916617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789e0f48c521f34681d337b7489fb03
+      internalID: -1251842206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a7526e147db74e807060a6843b3ae
+      internalID: -535810635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8199c3db44bcc4f9a4ad8fb2e2a360
+      internalID: 409529243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52358e4f4df0940a00a2814ba67791
+      internalID: 1443774978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699afa681470a740890998a5cfe6cfa
+      internalID: -165590021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35c9a810431dd4a92887e7095bbb77
+      internalID: -724173639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b3afc3127c65140a301f17f0f7515b
+      internalID: 1389212999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c976c2932ccd04883138da422e4498
+      internalID: -371490771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cea2ed60c92f459d6175f0e6d894a
+      internalID: -1060283061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8880d5ab7132db4c9b3dbca41439829
+      internalID: -1517261455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8f16c6cf948443898c8f265eadf91
+      internalID: -1013850808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20aee2e797ff74e80a5be2a646e1e8
+      internalID: 1207083273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_70
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504389d8128dbe4d9a1a385e6454e08
+      internalID: 2022836221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_71
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf643ea963b7d14294b78b490844550
+      internalID: 2124673618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27200577f8984014691e33bee8617d3e
+      internalID: -731801691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340826855210cb4da9493d2266fbe63
+      internalID: -1379104121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_74
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 310
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b873447f5ebc46929d9dfe62335ad
+      internalID: 268277343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 275
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454c8ec224cd684a907456990a16402
+      internalID: -1361984259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 275
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0418c1a2077a74ab43d2a306a9b203
+      internalID: -805906313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 275
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720bbc1215c1879408f92962c01e1400
+      internalID: -1831227338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 274
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6374952e252f349883c26e712fa7a1
+      internalID: 2013417312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 274
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e82712c4d97434d9105466a0d16107
+      internalID: -753836303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 274
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff467a945c15d47b7dad533a378f84
+      internalID: -241425570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 274
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954db51f017f5a644b5b3e6b2e86fe47
+      internalID: -949010045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 297
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c3844312c3d24eb664273da086039
+      internalID: -1784962352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 297
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1807d19318e78b2488eae4649d2bd0e8
+      internalID: -1048450979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 278
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da634dc0b08b6e4ca464fb7f73e1bcd
+      internalID: 384755275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 278
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70b594c5cc8c74ea105145784d06e3
+      internalID: 487542590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace95a51e193f94982597eb331068e0
+      internalID: -432242967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19349fc218aedf40936e88bece11eca
+      internalID: 1904835947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38b0198c8490b479cfc4741709f2e0
+      internalID: -864377766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46354bddc5a1e1f4cb54ab8b43867c15
+      internalID: 571941168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_90
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d5c8c6d4d6b5409e3c79d55f0da98
+      internalID: 323266456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_91
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713e10561a5192498e4d5d2ae3fa273
+      internalID: -217997350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 274
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1da347cdb376445b967906526679fc
+      internalID: -1494480612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 238
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00057b5d0f9508d41a70578785d4d75f
+      internalID: -245630075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8514bdaa556c54c994becbb7ff17c5
+      internalID: 1592355899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_95
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7d3adf0d172144b43ec8f2a742203
+      internalID: 1923198819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014cbbcafe23ea459f4fef5fbf3214d
+      internalID: 1846889922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996c2908c9e86a4ca7364b887b6015d
+      internalID: 1867527917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df644e82a5fdf54cac718977e90e1be
+      internalID: 1515879166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_99
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b295ecf08d7da649a193e15f9765832
+      internalID: -1883962661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_100
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 238
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99943476ac275414bb5a05028ef743c2
+      internalID: -218358288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 238
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11e756760c4be4387fa3d53fbe40dc
+      internalID: -1816419588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_102
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79bf47dfa4337a448c26a7fbbb7b353
+      internalID: -1355376973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_103
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 238
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28706cf4ba964c43ad3e8bb44d9a0f2
+      internalID: -1341606435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 238
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff56c9ba3dfed47bd74ebedd52170d
+      internalID: 1766619652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_105
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 238
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4165b50ef4274c343a67af3499a35583
+      internalID: -1845460891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 238
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88892b7718c42d47a757d57d55e40d4
+      internalID: 445233230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_107
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 238
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d2bd87003d0547ba72dc7077c70a5
+      internalID: -353732079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 238
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06e187c5faf3842973508cda68cc63
+      internalID: 411523551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_109
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 238
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6919a7275f8042986ce81174e2da8
+      internalID: 218644758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_110
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 238
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa39d5e1f06274eb67c50ebde4debd
+      internalID: -63079756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_111
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 238
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f125c3a9d3b05d458e69ddf2b7bc123
+      internalID: -1987679198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_112
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 238
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a29b590a16f6b4cbaf862ad166c13f
+      internalID: 766455120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_113
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 238
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc1bf8b6e69af479b518ab4b4f0c4d
+      internalID: -2045303947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b97eea5b93a30545a88bf3c1461d73a
+      internalID: 1829096230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 202
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255f275e0cb10544988ebb1564fb600
+      internalID: 127996223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_116
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 202
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d90d75235642e49a88add3448ca4f0
+      internalID: 1232408035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_117
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 202
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613f1bc80ac3884bb9303f99d312eb2
+      internalID: -1129000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_118
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 202
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227fae3136211d4b8fb48a0a54a733c
+      internalID: -233056508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_119
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 202
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b3f3332922c14188c771ebaab61d9
+      internalID: -159178365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 202
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba332371831ebbb46a1829bb987e2e09
+      internalID: -1324009824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 202
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526fdfabf304904c8aa3eccc546df98
+      internalID: 1536165964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_122
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 202
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee99ef2647dea7419de36b944ffd5a3
+      internalID: 1647329460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_123
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 202
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0456aab60df743ac418d1bfb3722e
+      internalID: 1149922821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 202
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760759dc9c8191d42902df77be25730b
+      internalID: -2034379373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_125
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e58e68968089d4b99cc48671ac724d
+      internalID: 1598226375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_126
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 203
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e2454426b5e647be79287af6bbd9a
+      internalID: -1822360355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_127
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 203
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8837252b242bd747978fbdc308acf36
+      internalID: 1127537706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_128
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 203
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa29d56fdd5a94fa8a2d187fe93d2e
+      internalID: -1170383143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_129
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 202
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc289f6e1e11747ad0416ed3d7f319
+      internalID: 2071428184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_130
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 202
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1cdd0820537454f815f7b5825e56a3
+      internalID: -929188706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_131
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 202
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0efa20ffbbce428d83bfb3da62f82
+      internalID: 1678556545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_132
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 202
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79edf478d38857b408c43d7931385851
+      internalID: 499396629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_133
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 202
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f13a52be97c1439e04440d6da3276
+      internalID: -598615295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b3e505ff37a6a47a4dd3cf0da5516a
+      internalID: -381506899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 166
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6b64b33458c548867b66bd9a8588b
+      internalID: -253177879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_136
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 166
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2984bf7f7b6cd947969dbba5e369203
+      internalID: -1100492560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_137
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 185
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1bec46250b53e46883601bf554fd5f
+      internalID: -1107277530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_138
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 185
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da86ecaa0613fc64f9d16b1b049fc9ed
+      internalID: 1436127682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_139
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 166
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f259d172520fd4b98a34ea3d576e59
+      internalID: 2145963548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 166
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c0a707742f5d4e87ffca80574fd35
+      internalID: 833079120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 165
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d402d51956de346bfe7579249d45a9
+      internalID: 1497461603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_142
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 166
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37358446d85c18d428f6960b5354093d
+      internalID: -648017563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_143
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 166
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450a4f0c129274645adfa3480a882777
+      internalID: 1099328660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_144
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 156
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f362521babd849b7577d167471e20
+      internalID: -1319031057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_145
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 166
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c09cb989b976746b8d5d1c327aca39
+      internalID: 281704654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_146
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 169
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315396c5c3e43214fbf7793e319ea5ea
+      internalID: -511481309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_147
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 167
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9be5e39b1ed84ba0060cd822b8c60
+      internalID: 1434360816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 166
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e941130cc7b94a9fc77b65e18128a
+      internalID: -65464863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_149
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 169
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00333cbc99490f49859c091b969f52c
+      internalID: 1227574339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_150
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 168
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393af8d7a34fe3469fbb1bb8cbc54f9
+      internalID: 728190615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_151
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 166
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e13b1ac57c794a96bf6bca3b40b40
+      internalID: 1320017850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_152
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 169
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cf22222e1bff4cb057229079feb80
+      internalID: -1367064566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 168
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993c96aa52413e4692b27501c3e100d
+      internalID: -1076565180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_154
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff720938fa06e64b954666750d3a79c
+      internalID: 1944336385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605ccbd785c1544abac7cf13dff76c1
+      internalID: -94176105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 122
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e171f47837be4198a1d70fc446f3c
+      internalID: 665981486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_157
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 121
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6229a14bd5e0b47bb8c132f986a5cc
+      internalID: -914674901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b001d8ca10d95f46ab6daad45a259a8
+      internalID: 1648434208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e67ca5d910c442ad9affef9bd49a3
+      internalID: 88240248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 119
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f4be9024a4694b9448034f29877ea
+      internalID: 199458857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad7f1caeaa5cb458bf7016dfcc3f88
+      internalID: 1388094054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_162
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 121
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6e217520249a489d82d3329e63841
+      internalID: 1615299350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_163
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb18379344c8d4f8c2d68f89296256
+      internalID: -1588264521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 121
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff027a12b5a5c4895c356b15b386f8
+      internalID: -1097498501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107619f5c41a144a84e0f2ac6db49ea
+      internalID: -1372028268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_166
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 119
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66160ecac8ec7409aae18c87e38950
+      internalID: -1298407671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_167
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78fec23f6e3ba4b99abb359161bd4f
+      internalID: -1555169579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_168
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 121
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dce6d271b013f4ca723f3ce21f413e
+      internalID: 506945481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08b6ecf2d956b439a05f9ceab374b3
+      internalID: 1711239406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 122
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31e96b2a042a304bbab47420b9558dd
+      internalID: 108714614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_171
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 120
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d302c0357fe0740bf51c186faa8db2
+      internalID: -1573717818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_172
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 119
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd81396f957c648b38e7b0d68adb85
+      internalID: -1510396753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_173
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 122
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a71933a0b1ed4698a20bc5a2751cc
+      internalID: -1167374089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_174
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 120
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdbc78170b40e44ca13f1e7fc35df9e
+      internalID: 1013495554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_175
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 119
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054daedde48a3b4ebfcb7b6dec248bd
+      internalID: -1250444509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_176
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 122
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102876876db66c54383e5bda59cc37c5
+      internalID: -1809679495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ac95736a951940bd3e1f643ca2214
+      internalID: -1156032596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_178
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7f863b36bd4b40876252ccd734b89
+      internalID: -1820295412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 85
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36dfa4b596d61142be0596bdf539798
+      internalID: 1206701227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_180
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6473deb16a524e933db92e77d5e96
+      internalID: -1436949385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_181
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47996ce91d9799842b93f1117e9d8659
+      internalID: -566288192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_182
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 84
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1851e7299a3c49bcc0d4cfe437031
+      internalID: -800453210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_183
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 83
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16251cd9e7aa00b40ab30c8c1b6a16c4
+      internalID: 2118871002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 82
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a81a1e82fa82ed46b2edfe423d7e029
+      internalID: -1333072762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_185
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 85
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c713a8633038448da2b6ec24b165a
+      internalID: -141727150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_186
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 84
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e8df0130b5c642b85eb44f45936a9
+      internalID: 942391513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_187
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c051753d7af04eb7c33919795172f
+      internalID: -522059946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_188
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 84
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd7aa9dc9d17094e9f484399270a00f
+      internalID: -1387674986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_189
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 83
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c987251bc38fc4ab81172b2475644d
+      internalID: -581125562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_190
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 82
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d920a9276f775b44dba313c4049994da
+      internalID: 2071948582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_191
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 85
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28dc8c15f252341969903101f2e57a
+      internalID: 2134094616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_192
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 84
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143aa73906244f540912717ce35278c4
+      internalID: 662386107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_193
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 83
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2bd59f306f2df4fac416463da589c6
+      internalID: -452295679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_194
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 83
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607c7113e2069447b62ab02a273dec3
+      internalID: -1414752605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_195
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9de21fad6160f409293610ac362a79
+      internalID: -390064076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_196
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3ff78f23ed784f877e6a9348a332a
+      internalID: 55200416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_197
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 83
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60721de38867a54eb0178bf39550e33
+      internalID: 2109263140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325762028cd41842a40017dd2a1fbab
+      internalID: -791294074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_199
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 83
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b500dc3596e4f848a4e2f239aab10b5
+      internalID: -2080826991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_200
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b49ae2fd16ba64185186164e53f53f
+      internalID: 472340786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_201
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0c90d1f1114341b456dda567cd6ba
+      internalID: 745966125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489430b8a44e1bf4a93f80736e1277be
+      internalID: -1301683030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_203
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7d7bba268c07429ecac476e50b243
+      internalID: -534343958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_204
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 46
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19acce2fcfbb1dc428f338022c6526f7
+      internalID: 1593605281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_205
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c34ea10c4be9b4696a759da5e95ba3
+      internalID: -1934162841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_206
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6548e1ad149441984dee223dba62f
+      internalID: 1322513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_207
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 46
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4093185cbec044b792f9e79c42e85
+      internalID: -1652080143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_208
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f990b560dbef0a499bfa1d5805c492f
+      internalID: 764095789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_209
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ef4fa408845e438e4adc1c61a3211
+      internalID: 1349068829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_210
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 46
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8eb7c3d3c10e4c8a7c67837bdd720
+      internalID: -105799970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_211
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 46
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a28261a3cfb544f988a5773f7d9d1b
+      internalID: 166664657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_212
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2c7fe6c45b764b929ae918c82a1c1
+      internalID: 1735328805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_213
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 46
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06468bdea3504024ba314e26259a19c8
+      internalID: 154251191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_214
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 46
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16840485401d0704490907ddc4fffb0b
+      internalID: -460436863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_215
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 47
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e46b152f55d3a4da2fff9a61acc026
+      internalID: 1968040476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 46
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed2d46020e65e74ab20d26e5dd70856
+      internalID: 1995214279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic Warrior Base_217
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 46
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a0d1c43abb3c42961d84b53e735ba
+      internalID: 1279314542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Olberic Warrior Base_51: 399798279
+      Olberic Warrior Base_68: -1013850808
+      Olberic Warrior Base_52: 21228061
+      Olberic Warrior Base_92: -1494480612
+      Olberic Warrior Base_16: -1727213535
+      Olberic Warrior Base_169: 1711239406
+      Olberic Warrior Base_158: 1648434208
+      Olberic Warrior Base_97: 1867527917
+      Olberic Warrior Base_102: -1355376973
+      Olberic Warrior Base_105: -1845460891
+      Olberic Warrior Base_121: 1536165964
+      Olberic Warrior Base_179: 1206701227
+      Olberic Warrior Base_40: 1108584267
+      Olberic Warrior Base_96: 1846889922
+      Olberic Warrior Base_33: 1626217998
+      Olberic Warrior Base_106: 445233230
+      Olberic Warrior Base_75: -1361984259
+      Olberic Warrior Base_64: 1389212999
+      Olberic Warrior Base_122: 1647329460
+      Olberic Warrior Base_151: 1320017850
+      Olberic Warrior Base_5: 1870899975
+      Olberic Warrior Base_116: 1232408035
+      Olberic Warrior Base_208: 764095789
+      Olberic Warrior Base_109: 218644758
+      Olberic Warrior Base_89: 571941168
+      Olberic Warrior Base_154: 1944336385
+      Olberic Warrior Base_212: 1735328805
+      Olberic Warrior Base_26: 396820450
+      Olberic Warrior Base_155: -94176105
+      Olberic Warrior Base_55: 1019734819
+      Olberic Warrior Base_131: 1678556545
+      Olberic Warrior Base_141: 1497461603
+      Olberic Warrior Base_173: -1167374089
+      Olberic Warrior Base_38: -1280841241
+      Olberic Warrior Base_4: 2045043826
+      Olberic Warrior Base_25: 1163392611
+      Olberic Warrior Base_45: 1581667278
+      Olberic Warrior Base_104: 1766619652
+      Olberic Warrior Base_136: -1100492560
+      Olberic Warrior Base_176: -1809679495
+      Olberic Warrior Base_150: 728190615
+      Olberic Warrior Base_32: 662819177
+      Olberic Warrior Base_47: -2003347383
+      Olberic Warrior Base_86: -432242967
+      Olberic Warrior Base_188: -1387674986
+      Olberic Warrior Base_110: -63079756
+      Olberic Warrior Base_163: -1588264521
+      Olberic Warrior Base_159: 88240248
+      Olberic Warrior Base_195: -390064076
+      Olberic Warrior Base_134: -381506899
+      Olberic Warrior Base_87: 1904835947
+      Olberic Warrior Base_90: 323266456
+      Olberic Warrior Base_77: -1831227338
+      Olberic Warrior Base_114: 1829096230
+      Olberic Warrior Base_124: -2034379373
+      Olberic Warrior Base_36: -736781896
+      Olberic Warrior Base_69: 1207083273
+      Olberic Warrior Base_111: -1987679198
+      Olberic Warrior Base_125: 1598226375
+      Olberic Warrior Base_107: -353732079
+      Olberic Warrior Base_178: -1820295412
+      Olberic Warrior Base_58: -1251842206
+      Olberic Warrior Base_9: 652230768
+      Olberic Warrior Base_60: 409529243
+      Olberic Warrior Base_164: -1097498501
+      Olberic Warrior Base_31: 418259511
+      Olberic Warrior Base_65: -371490771
+      Olberic Warrior Base_209: 1349068829
+      Olberic Warrior Base_34: 1237188163
+      Olberic Warrior Base_194: -1414752605
+      Olberic Warrior Base_78: 2013417312
+      Olberic Warrior Base_3: 1170299218
+      Olberic Warrior Base_157: -914674901
+      Olberic Warrior Base_20: -307120055
+      Olberic Warrior Base_35: 934596413
+      Olberic Warrior Base_57: 992916617
+      Olberic Warrior Base_93: -245630075
+      Olberic Warrior Base_85: 487542590
+      Olberic Warrior Base_214: -460436863
+      Olberic Warrior Base_127: 1127537706
+      Olberic Warrior Base_177: -1156032596
+      Olberic Warrior Base_145: 281704654
+      Olberic Warrior Base_165: -1372028268
+      Olberic Warrior Base_28: 1820146511
+      Olberic Warrior Base_200: 472340786
+      Olberic Warrior Base_217: 1279314542
+      Olberic Warrior Base_211: 166664657
+      Olberic Warrior Base_73: -1379104121
+      Olberic Warrior Base_37: -947526780
+      Olberic Warrior Base_39: -1460672236
+      Olberic Warrior Base_53: -1238634985
+      Olberic Warrior Base_142: -648017563
+      Olberic Warrior Base_138: 1436127682
+      Olberic Warrior Base_41: -890456660
+      Olberic Warrior Base_196: 55200416
+      Olberic Warrior Base_49: -1029394902
+      Olberic Warrior Base_24: 414353500
+      Olberic Warrior Base_15: 151859634
+      Olberic Warrior Base_42: 1673109221
+      Olberic Warrior Base_94: 1592355899
+      Olberic Warrior Base_203: -534343958
+      Olberic Warrior Base_186: 942391513
+      Olberic Warrior Base_100: -218358288
+      Olberic Warrior Base_166: -1298407671
+      Olberic Warrior Base_191: 2134094616
+      Olberic Warrior Base_21: 1538872601
+      Olberic Warrior Base_113: -2045303947
+      Olberic Warrior Base_147: 1434360816
+      Olberic Warrior Base_88: -864377766
+      Olberic Warrior Base_148: -65464863
+      Olberic Warrior Base_83: -1048450979
+      Olberic Warrior Base_27: -986070617
+      Olberic Warrior Base_215: 1968040476
+      Olberic Warrior Base_153: -1076565180
+      Olberic Warrior Base_184: -1333072762
+      Olberic Warrior Base_167: -1555169579
+      Olberic Warrior Base_120: -1324009824
+      Olberic Warrior Base_168: 506945481
+      Olberic Warrior Base_2: 1497326455
+      Olberic Warrior Base_133: -598615295
+      Olberic Warrior Base_81: -949010045
+      Olberic Warrior Base_143: 1099328660
+      Olberic Warrior Base_152: -1367064566
+      Olberic Warrior Base_63: -724173639
+      Olberic Warrior Base_189: -581125562
+      Olberic Warrior Base_91: -217997350
+      Olberic Warrior Base_201: 745966125
+      Olberic Warrior Base_162: 1615299350
+      Olberic Warrior Base_54: 1052642599
+      Olberic Warrior Base_149: 1227574339
+      Olberic Warrior Base_11: 2086087269
+      Olberic Warrior Base_13: -1195055515
+      Olberic Warrior Base_185: -141727150
+      Olberic Warrior Base_8: -501657625
+      Olberic Warrior Base_62: -165590021
+      Olberic Warrior Base_80: -241425570
+      Olberic Warrior Base_119: -159178365
+      Olberic Warrior Base_187: -522059946
+      Olberic Warrior Base_182: -800453210
+      Olberic Warrior Base_190: 2071948582
+      Olberic Warrior Base_43: 324864428
+      Olberic Warrior Base_10: -860040305
+      Olberic Warrior Base_123: 1149922821
+      Olberic Warrior Base_193: -452295679
+      Olberic Warrior Base_108: 411523551
+      Olberic Warrior Base_103: -1341606435
+      Olberic Warrior Base_1: 318097747
+      Olberic Warrior Base_197: 2109263140
+      Olberic Warrior Base_59: -535810635
+      Olberic Warrior Base_144: -1319031057
+      Olberic Warrior Base_50: -1969104343
+      Olberic Warrior Base_18: -514593363
+      Olberic Warrior Base_213: 154251191
+      Olberic Warrior Base_46: 1192219087
+      Olberic Warrior Base_56: -1257751962
+      Olberic Warrior Base_71: 2124673618
+      Olberic Warrior Base_216: 1995214279
+      Olberic Warrior Base_6: -729558705
+      Olberic Warrior Base_22: 154131452
+      Olberic Warrior Base_128: -1170383143
+      Olberic Warrior Base_172: -1510396753
+      Olberic Warrior Base_132: 499396629
+      Olberic Warrior Base_23: -151918312
+      Olberic Warrior Base_206: 1322513
+      Olberic Warrior Base_98: 1515879166
+      Olberic Warrior Base_129: 2071428184
+      Olberic Warrior Base_72: -731801691
+      Olberic Warrior Base_118: -233056508
+      Olberic Warrior Base_207: -1652080143
+      Olberic Warrior Base_181: -566288192
+      Olberic Warrior Base_126: -1822360355
+      Olberic Warrior Base_79: -753836303
+      Olberic Warrior Base_115: 127996223
+      Olberic Warrior Base_30: 1939385258
+      Olberic Warrior Base_130: -929188706
+      Olberic Warrior Base_7: 1420882035
+      Olberic Warrior Base_14: -1752371968
+      Olberic Warrior Base_29: -214972577
+      Olberic Warrior Base_67: -1517261455
+      Olberic Warrior Base_192: 662386107
+      Olberic Warrior Base_199: -2080826991
+      Olberic Warrior Base_112: 766455120
+      Olberic Warrior Base_95: 1923198819
+      Olberic Warrior Base_12: -368184112
+      Olberic Warrior Base_183: 2118871002
+      Olberic Warrior Base_170: 108714614
+      Olberic Warrior Base_99: -1883962661
+      Olberic Warrior Base_19: 481540897
+      Olberic Warrior Base_137: -1107277530
+      Olberic Warrior Base_70: 2022836221
+      Olberic Warrior Base_161: 1388094054
+      Olberic Warrior Base_139: 2145963548
+      Olberic Warrior Base_48: -1006214373
+      Olberic Warrior Base_61: 1443774978
+      Olberic Warrior Base_0: 1623391481
+      Olberic Warrior Base_146: -511481309
+      Olberic Warrior Base_101: -1816419588
+      Olberic Warrior Base_174: 1013495554
+      Olberic Warrior Base_66: -1060283061
+      Olberic Warrior Base_160: 199458857
+      Olberic Warrior Base_175: -1250444509
+      Olberic Warrior Base_198: -791294074
+      Olberic Warrior Base_84: 384755275
+      Olberic Warrior Base_202: -1301683030
+      Olberic Warrior Base_180: -1436949385
+      Olberic Warrior Base_204: 1593605281
+      Olberic Warrior Base_205: -1934162841
+      Olberic Warrior Base_171: -1573717818
+      Olberic Warrior Base_82: -1784962352
+      Olberic Warrior Base_210: -105799970
+      Olberic Warrior Base_140: 833079120
+      Olberic Warrior Base_74: 268277343
+      Olberic Warrior Base_76: -805906313
+      Olberic Warrior Base_156: 665981486
+      Olberic Warrior Base_117: -1129000000
+      Olberic Warrior Base_17: 769121601
+      Olberic Warrior Base_44: -1179465457
+      Olberic Warrior Base_135: -253177879
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
