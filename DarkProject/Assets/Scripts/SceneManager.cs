@@ -11,6 +11,7 @@ public class SceneManager : MonoBehaviour
     [SerializeField] private GameObject MenuOpciones;
     [SerializeField] private GameObject MenuInstrucciones;
     [SerializeField] private GameObject MenuConfiguraciones;
+
     // Update is called once per frame
     void Update()
     {
@@ -67,10 +68,6 @@ public class SceneManager : MonoBehaviour
     }
 
 
-    public void Jugar()
-    {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(1);
-    }
 
     public void QuitarJuego()
     {
