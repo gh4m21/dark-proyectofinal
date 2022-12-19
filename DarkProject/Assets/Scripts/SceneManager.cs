@@ -9,11 +9,14 @@ public class SceneManager : MonoBehaviour
     [SerializeField] private GameObject MenuPantallaInical;
     [SerializeField] private GameObject MenuPrincipal;
     [SerializeField] private GameObject MenuOpciones;
+    [SerializeField] private GameObject MenuInstrucciones;
+    [SerializeField] private GameObject MenuConfiguraciones;
     // Update is called once per frame
     void Update()
     {
         // si pulsa cualquier tecla aparecera el menu principal.
-        if (Input.anyKeyDown) { 
+        if (Input.anyKeyDown)
+        {
             MenuPantallaInical.SetActive(false);
             MenuPrincipal.SetActive(true);
         }
@@ -26,12 +29,46 @@ public class SceneManager : MonoBehaviour
 
     }
 
-    public void Atras() {
+    public void Atras()
+    {
         MenuOpciones.SetActive(false);
         MenuPrincipal.SetActive(true);
     }
 
-    public void Jugar() {
+    public void AtrasInstrucciones()
+    {
+        MenuOpciones.SetActive(true);
+        MenuInstrucciones.SetActive(false);
+        MenuPrincipal.SetActive(false);
+    }
+
+    public void AtrasConfiguracion()
+    {
+        MenuOpciones.SetActive(true);
+        MenuConfiguraciones.SetActive(false);
+        MenuPrincipal.SetActive(false);
+    }
+
+    public void Instruccion()
+    {
+        MenuOpciones.SetActive(false);
+        MenuInstrucciones.SetActive(true);
+        MenuPrincipal.SetActive(false);
+
+
+    }
+
+    public void Configuracion()
+    {
+        MenuOpciones.SetActive(false);
+        MenuConfiguraciones.SetActive(true);
+        MenuPrincipal.SetActive(false);
+
+    }
+
+
+    public void Jugar()
+    {
         UnityEngine.SceneManagement.SceneManager.LoadScene(1);
     }
 

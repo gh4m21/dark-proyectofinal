@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.17827627, g: 0.22321953, b: 0.30526555, a: 1}
+  m_IndirectSpecularColor: {r: 0.17827609, g: 0.22321934, b: 0.30526498, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -14863,6 +14863,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   swordAttack: {fileID: 1439874606}
+--- !u!114 &3636830553565192464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771644572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2adb8c694d08d0b47bc1f7ed1926bc89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5211635501319314267
 PrefabInstance:
   m_ObjectHideFlags: 0
