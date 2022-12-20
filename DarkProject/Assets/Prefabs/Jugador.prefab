@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535437434360519467}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.439, y: 0, z: 0}
-  m_LocalScale: {x: 0.17821674, y: 1, z: 1}
+  m_LocalPosition: {x: 0.302, y: 0, z: -0.001}
+  m_LocalScale: {x: 0.38014537, y: 1.1078361, z: 0.6863703}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8803390476175129182}
@@ -60,6 +60,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   swordCollider: {fileID: 5238098396831242188}
   damage: 3
+  maxHealth: 30
+  healthbar: {fileID: 0}
 --- !u!1 &5211635500694160610
 GameObject:
   m_ObjectHideFlags: 0
@@ -168,9 +170,13 @@ GameObject:
   - component: {fileID: 8803390476175129180}
   - component: {fileID: 8803390476175129171}
   - component: {fileID: -1912898495346384778}
+  - component: {fileID: 3636830553565192460}
+  - component: {fileID: 3636830553565192461}
+  - component: {fileID: 3636830553565192463}
+  - component: {fileID: 3636830553565192464}
   m_Layer: 3
   m_Name: Jugador
-  m_TagString: Untagged
+  m_TagString: Jugador
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -309,3 +315,74 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &3636830553565192460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8803390476175129509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: b1165eeb332a81b4eaae0b0eca7ec13c, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!114 &3636830553565192461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8803390476175129509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa60226572e8e7458e0cb914579a49e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  swordCollider: {fileID: 5238098396831242188}
+  damage: 4
+  maxHealth: 30
+  healthbar: {fileID: 0}
+--- !u!114 &3636830553565192463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8803390476175129509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940e916b7ad54cf45b2e1043240c1f5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  swordAttack: {fileID: 3638211863111106157}
+--- !u!114 &3636830553565192464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8803390476175129509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2adb8c694d08d0b47bc1f7ed1926bc89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

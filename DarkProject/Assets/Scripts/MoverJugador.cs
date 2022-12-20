@@ -10,6 +10,12 @@ public class MoverJugador : MonoBehaviour
 
     private Vector2 moveInput;
 
+    public Animator anim;
+
+    public SpriteRenderer theSR;
+
+    private bool movingBackwards;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,5 +31,24 @@ public class MoverJugador : MonoBehaviour
         moveInput.Normalize();
 
         theRB.velocity = new Vector3(moveInput.x * velocidadMovimiento, theRB.velocity.y, moveInput.y*velocidadMovimiento);
+
+        anim.SetFloat("moveSpeed", theRB.velocity.magnitude);
+
+        if (!theSR.flipX && moveInput.x < 0)
+        {
+            theSR.flipX = true;
+
+        }else if (theSR.flipX && moveInput.x > 0) 
+        { 
+            theSR.flipX=false;
+        }
+
+        if (!movingBackwards && moveInput.y > 0)
+        {
+            movingBackwards = true;
+        }else if (movingBackwards&&moveInput.y<0)
+        {
+            movingBackwards=false;
+        }
     }
 }
