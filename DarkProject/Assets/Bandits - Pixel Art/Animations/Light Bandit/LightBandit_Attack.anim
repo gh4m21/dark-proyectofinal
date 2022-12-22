@@ -91,6 +91,6 @@ AnimationClip:
     functionName: Attack
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 20
+    floatParameter: 5
     intParameter: 99
     messageOptions: 0

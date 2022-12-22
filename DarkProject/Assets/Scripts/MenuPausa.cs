@@ -37,6 +37,9 @@ public class MenuPausa : MonoBehaviour
     {
         Time.timeScale = 1f;
         UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+        PlayerManager.currentHealth = 100;
+        Time.timeScale = 1f;
+        PlayerManager.numberOfCoins = 0;
     }
 
     public void Ir_Menu() 
@@ -44,4 +47,6 @@ public class MenuPausa : MonoBehaviour
         Time.timeScale = 1f;
         UnityEngine.SceneManagement.SceneManager.LoadScene(0);
     }
+
+
 }

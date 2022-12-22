@@ -204,7 +204,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   theRB: {fileID: 2379371562624019574}
   velocidadMovimiento: 3.5
-  jumpForce: 10
   anim: {fileID: 4493134332232775260}
   theSR: {fileID: 2379371562624019573}
 --- !u!54 &2379371562624019574

@@ -6,7 +6,7 @@ public class MoverJugador : MonoBehaviour
 {
     public Rigidbody theRB;
     public float velocidadMovimiento;
-    public float jumpForce;
+
 
     private Vector2 moveInput;
 
@@ -19,7 +19,9 @@ public class MoverJugador : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        theRB = GetComponent<Rigidbody>();
+        anim = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
@@ -30,25 +32,20 @@ public class MoverJugador : MonoBehaviour
 
         moveInput.Normalize();
 
-        theRB.velocity = new Vector3(moveInput.x * velocidadMovimiento, theRB.velocity.y, moveInput.y*velocidadMovimiento);
+
 
         anim.SetFloat("moveSpeed", theRB.velocity.magnitude);
-
-        if (!theSR.flipX && moveInput.x < 0)
-        {
-            theSR.flipX = true;
-
-        }else if (theSR.flipX && moveInput.x > 0) 
-        { 
-            theSR.flipX=false;
-        }
-
-        if (!movingBackwards && moveInput.y > 0)
-        {
-            movingBackwards = true;
-        }else if (movingBackwards&&moveInput.y<0)
-        {
-            movingBackwards=false;
-        }
+        anim.SetFloat("Horizontal", moveInput.x);
+        anim.SetFloat("Vertical", moveInput.y);
     }
+
+    private void FixedUpdate()
+    {
+        theRB.velocity = new Vector3(moveInput.x * velocidadMovimiento, theRB.velocity.y, moveInput.y * velocidadMovimiento);
+
+    }
+
+
+
+
 }

@@ -5,23 +5,23 @@ using UnityEngine.SceneManagement;
 public class Gmover : MonoBehaviour
 {
 
-    // private void Start() {
-    //     activeScene = UnityEngine.SceneManagement.SceneManager.GetActiveScene();
-    // }
-   
-    // Start is called before the first frame update
+    [SerializeField] private GameObject menuPerdida;
+
     public void ReiniciarGame()
     {
 
-         UnityEngine.SceneManagement.SceneManager.LoadScene("Nivel");
-PlayerManager.currentHealth=100;
-Time.timeScale=1f;
-PlayerManager.numberOfCoins=0;
+       
+        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+        PlayerManager.currentHealth=100;
+        Time.timeScale=1f;
+        PlayerManager.numberOfCoins=0;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Ir_Menu()
     {
-        
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene(0);
     }
+
+
 }

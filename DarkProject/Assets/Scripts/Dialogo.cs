@@ -13,25 +13,22 @@ public class Dialogo : MonoBehaviour
     private float typingTime = 0.05f;
 
     [SerializeField] private GameObject marcaDialogo;
-    [SerializeField, TextArea(4,6)] private string[] lineasDialogo;
+    [SerializeField, TextArea(4, 6)] private string[] lineasDialogo;
     [SerializeField] private GameObject PanelDialogo;
     [SerializeField] private TMP_Text dialogoTexto;
 
     // Update is called once per frame
     void Update()
     {
-        if (isPlayerInRange&&Input.GetButton("Fire2"))
+        if (isPlayerInRange && Input.GetButton("Fire2"))
         {
             if (!didDialogueStart)
             {
                 StartDialogo();
             }
-            else if (dialogoTexto.text == lineasDialogo[lineIndex])
-            {
-                Nextdialogoline();
-            }
-            
-            
+
+
+
         }
     }
 
@@ -45,14 +42,15 @@ public class Dialogo : MonoBehaviour
         StartCoroutine(Showline());
     }
 
-    private void Nextdialogoline()
-    { 
+    public void Nextdialogoline()
+    {
         lineIndex++;
         if (lineIndex < lineasDialogo.Length)
         {
             StartCoroutine(Showline());
         }
-        else {
+        else
+        {
             didDialogueStart = false;
             PanelDialogo.SetActive(false);
             marcaDialogo.SetActive(true);
@@ -60,7 +58,7 @@ public class Dialogo : MonoBehaviour
         }
     }
 
-    private IEnumerator Showline() 
+    private IEnumerator Showline()
     {
         dialogoTexto.text = string.Empty;
 
@@ -74,14 +72,14 @@ public class Dialogo : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Jugador"))
-        isPlayerInRange = true;
+            isPlayerInRange = true;
         marcaDialogo.SetActive(true);
     }
 
     private void OnTriggerExit(Collider other)
     {
         if (other.gameObject.CompareTag("Jugador"))
-        isPlayerInRange = false;
+            isPlayerInRange = false;
         marcaDialogo.SetActive(false);
     }
 }
