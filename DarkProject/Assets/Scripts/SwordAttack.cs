@@ -7,6 +7,8 @@ public class SwordAttack : MonoBehaviour
     public Collider swordCollider;
     public float damage = 3;
      public int maxHealth = 30;
+      public GameObject damageEffect;
+    public int damageAmount = 40;
     public Healthbar healthbar;
     Vector2 rightAttackOffset;
 
@@ -30,13 +32,10 @@ public class SwordAttack : MonoBehaviour
 
     private void OnTriggerEnter(Collider other) {
         if(other.tag == "Enemy") {
-            // Deal damage to the enemy
-            Enemy enemy = other.GetComponent<Enemy>();
-
-            if(enemy != null) {
-                enemy.Health -= damage;
-                 healthbar.UpdateHealth((float)enemy.Health / (float)maxHealth);
+             Instantiate(damageEffect, transform.position, damageEffect.transform.rotation);
+            other.GetComponent<Enemy>().TakeDamage(damageAmount);
+                 healthbar.UpdateHealth((float)damage / (float)maxHealth);
             }
         }
     }
-}
+
