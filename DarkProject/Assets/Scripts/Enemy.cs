@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 public class Enemy : MonoBehaviour
 {
     private string currentState = "IdleState";
     private Transform target;
-
+public Slider Slider_Coins;
     public float chaseRange = 5;
     public float attackRange = 2;
     public float speed = 3;
@@ -75,6 +76,7 @@ public class Enemy : MonoBehaviour
         if(health < 0)
         {
             Die();
+             PlayerManager.numberOfCoins++;
         }
     }
 
