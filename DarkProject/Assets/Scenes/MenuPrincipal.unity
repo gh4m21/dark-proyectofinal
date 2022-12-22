@@ -596,7 +596,7 @@ MonoBehaviour:
       - m_Target: {fileID: 797754350}
         m_TargetAssemblyTypeName: ControladorOpciones, Assembly-CSharp
         m_MethodName: CambiarCalidad
-        m_Mode: 0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3015,6 +3015,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioMixer: {fileID: 24100000, guid: cc712cd6fae2af147ba1da3428bb235a, type: 2}
+  calidad: 3
+  dropdown: {fileID: 93374942}
 --- !u!114 &797754351
 MonoBehaviour:
   m_ObjectHideFlags: 0
